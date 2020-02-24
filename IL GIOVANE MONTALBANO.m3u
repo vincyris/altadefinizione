@@ -1,7 +1,5 @@
 #EXTM3U
-
 #EXTINF:0 group-title="IlGiovaneMontalbano",IlGiovaneMontalbano
-http:
 #EXTINF:0,s2p4 La transazione [2015]
 http://creativemedia3.rai.it/Italy/podcastcdn/Fiction/RaiUno/Il_giovane_Montalbano_-_Seconda_stagione/4532441_1800.mp4
 #EXTINF:0,s2p3 Morte in mare aperto [2015]
